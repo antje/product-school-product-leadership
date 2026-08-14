@@ -1,8 +1,6 @@
 # My Strategy: Product Leadership Final Project
 
-> My final project for Product School's **Product Leadership** certification. One scenario, **Fable Growth** (B2C) or **Meridian Foundations** (B2B), or my own instructor-approved initiative, taken from a board-ready product strategy to a complete business case across six in-class labs.
-
-This is a **template repo**. Click **Use this template → Create a new repository**, name it something like `product-leadership-final`, and fill in one folder per deliverable as you go. This is an **individual project**: your work is yours alone.
+> My final project for Product School's **Product Leadership** certification: the **Fable Growth** scenario (B2C · retention + engagement), taken from a board-ready product strategy to a complete business case across six in-class labs. Individual project, one folder per deliverable.
 
 ---
 
@@ -10,9 +8,9 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 | # | Deliverable | Module | Status | File |
 |---|---|---|---|---|
-| 1 | **Product Strategy One-Pager & OKRs** | M1 | ☐ | `01-strategy/strategy-and-okrs.md` |
-| 2 | **Outcome Roadmap & Trade-off Memo** | M2 | ☐ | `02-roadmap/outcome-roadmap.md` |
-| 3 | **Team Charter** (What We Own + How We Decide) | M3 | ☐ | `03-team-charter/team-charter.md` |
+| 1 | **Product Strategy One-Pager & OKRs** | M1 | ✅ | `01-strategy/strategy-and-okrs.md` |
+| 2 | **Outcome Roadmap & Trade-off Memo** | M2 | ✅ | `02-roadmap/outcome-roadmap.md` |
+| 3 | **Team Charter** (What We Own + How We Decide) | M3 | ✅ | `03-team-charter/team-charter.md` |
 | 4 | **Financial Model** (business case + kill criteria) | M5 | ☐ | `04-financial-model/financial-model.md` |
 | 5 | **Individual Insights** (reflection) | M6 | ☐ | `05-insights/individual-insights.md` |
 | ★ | **Final Project Presentation** (generated in M6, committed to your repo) | M6 | ☐ | `05-insights/final-presentation.md` |
@@ -21,9 +19,7 @@ This is a **template repo**. Click **Use this template → Create a new reposito
 
 ## The strategy in one sentence
 
-_What is your scenario, where will you play, and what is the single hard bet you're making?_
-
-___
+Fable (B2C) escapes the growth wall by becoming a clinically grounded AI companion whose value compounds through longitudinal personal memory, winning the everyday "something feels off" moment for its existing users and graduates; the hard bet is refusing to optimize for attachment, so trust stays the moat.
 
 ## How to submit
 
