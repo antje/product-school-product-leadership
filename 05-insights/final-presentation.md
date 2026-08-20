@@ -45,7 +45,7 @@ Antje Barth
 
 **Now, committed.** The three Rocks, meaning the bets that have to land or the strategy does not. Memory-grounded check-ins, the thing competitors cannot copy (KR2). Crisis mode, which is both what makes it safe to run this at all and the safe way back for someone who left (KR3). Sub-2-second load (KR1).
 
-**Performance as a Rock, deliberately.** For a product whose promise is "the first thing you talk to when something feels off," a four second cold start is not polish. It is the promise breaking in the first four seconds.
+**Performance as a Rock, deliberately.** Speed usually gets filed as polish, not strategy. Here it is a Rock because the product's whole promise is being the first thing you reach for, and nothing that takes four seconds is the first thing you reach for.
 
 **What we cut.** Daily streaks, because they are the hard no in feature form. Content library expansion, because it invests further in the very thing users finish with. Social sharing, because mental-health progress is not social currency. Fable for Teams, the expensive one, because employer reporting incentives point at both the hard no and the privacy promise. That last one is marked revisit after KR2 rather than never.
 
