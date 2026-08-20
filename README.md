@@ -66,5 +66,5 @@ product-leadership-final/
 | 2. Outcome Roadmap & Trade-off Memo | Complete |
 | 3. Team Charter | Complete |
 | 4. Financial Model | Complete |
-| 5. Individual Insights | In progress |
+| 5. Individual Insights | Complete |
 | Final presentation | In progress |
