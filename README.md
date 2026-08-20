@@ -55,7 +55,8 @@ product-leadership-final/
 │   └── financial-model.md        Business case, seven kill criteria
 └── 05-insights/
     ├── individual-insights.md    Friction, learnings, aha
-    └── final-presentation.md     The deck
+    ├── final-presentation.md     Deck content, one section per slide
+    └── product-leadership-final-antje-barth.pdf   The deck
 ```
 
 ## Status
@@ -67,4 +68,4 @@ product-leadership-final/
 | 3. Team Charter | Complete |
 | 4. Financial Model | Complete |
 | 5. Individual Insights | Complete |
-| Final presentation | In progress |
+| Final presentation | Complete |
