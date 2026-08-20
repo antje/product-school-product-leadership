@@ -6,6 +6,10 @@
 
 ---
 
+[![Fable: the companion bet, final presentation title slide](05-insights/images/title-slide.png)](05-insights/product-leadership-final-antje-barth.pdf)
+
+_The full six-slide deck: [product-leadership-final-antje-barth.pdf](05-insights/product-leadership-final-antje-barth.pdf)_
+
 ## The diagnosis
 
 Fable peaked at 4.2M users by being genuinely good at one thing: helping adults through an acute anxiety episode. It works. Users resolve the thing they came for in 90 to 120 days, conclude they are done, and quietly stop opening the app.
