@@ -6,6 +6,8 @@
 
 **Scope.** "We" is the Fable Core product team (14 people) that I lead. PM 1, PM 2, and PM 3 are named because the AI check-in layer sits across two surfaces, which is the reason this charter exists.
 
+**The structure, chosen deliberately.** This is a Platform plus Product shape: memory, conversation design and safety are held centrally as shared capabilities, and three PMs own outcomes on top of them. We optimise for coherence, because a companion that behaves like two different products across onboarding and retention is not a companion. The trade-off we accept is slower velocity in the shared layer, since every surface depends on it and a change there cannot ship casually. The alternative, splitting memory per surface, would let each PM move faster and would break the one thing the strategy says is the moat.
+
 **Anchored in the strategy (Deliverables 1 and 2).** The AI check-in layer is our current strategic bet (the memory-grounded companion, Rock 1). The one hard no from the strategy, no optimizing for attachment or dependency, is encoded below as a standing decision right, not a value to aspire to.
 
 ## What We Own

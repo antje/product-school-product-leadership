@@ -2,7 +2,7 @@
 
 > Module 2 · Prioritization & Roadmapping for Product Leaders, ★ Deliverable 2
 >
-> Translate your strategy into a multi-team, outcome-driven roadmap, and a memo defending the hard prioritization calls behind it.
+> The strategy turned into a multi-team, outcome-driven roadmap, with a memo defending the prioritization calls that cost something.
 
 **Strategic anchor (from Deliverable 1).** Objective: become the companion our users talk to first when something feels off, and prove the relationship compounds instead of expiring. KR1: 26-week retention of companion users from 12% to 30%. KR2: share of conversations rated 4+ on "felt understood" from 38% to 65%, clinically audited. KR3: dormant graduates completing a second conversation within 30 days, from 5% to 18%. All by end of Q1 2027.
 
@@ -40,13 +40,13 @@ Now/Next/Later format: what is in Now is committed and credibility-staked; Next 
 
 Also resourced this quarter, outside the roadmap's bet structure: item 10 (WCAG 2.1 compliance, scheduled with a deadline as both legal necessity and care ethos) and a standing ~15% capacity reserve for stability sand.
 
-Roadmap visual: this table is the source of truth; deck version to follow in the Module 6 deliverables deck.
+This table is the source of truth for sequencing.
 
 ## 2. Trade-off memo
 
 > I chose to sequence **memory-grounded check-ins (item 6), crisis mode (item 9), and instant availability (items 14 and 4)** first because they are, in order, the differentiator, the license to operate, and the promise made physical. Cost-of-delay reasoning drove all three: every quarter without memory-grounded conversations is a quarter our "felt understood" claim is indistinguishable from ChatGPT's; every conversational feature shipped before the safety gate exists is uninsurable downside risk; and the dormant-graduate cohort decays with time, so anything that makes returning harder, a 4.2-second load, a notification that fires at the wrong hour, is a wasting-asset problem. The unconventional call is treating performance as a Rock rather than sand: for a product whose winning aspiration is "the first thing you talk to when something feels off," latency is not polish, it is the front door.
 >
-> I pushed out **pattern insights, the therapist handoff, the pricing pilot, the onboarding redesign, and life-transition arcs** because each has a hard dependency on a Now bet proving out first. WSJF made these calls straightforward: pattern insights have high value but an inflated job size until the memory engine accumulates real history; the therapist handoff (the strategic half of the CEO's premium-tier request, item 5) waits for the escalation muscle that crisis mode builds; the pricing pilot (its other half) has enormous risk-reduction value but zero validity before KR2 shows the companion is worth paying for; and the onboarding redesign (item 1) would currently onboard users into the product we are leaving behind. Splitting item 5 rather than building it as bundled was the quarter's most politically expensive call, and the right one: both halves survive, sequenced where each can succeed.
+> I pushed out **pattern insights, the therapist handoff, the pricing pilot, the onboarding redesign, and life-transition arcs** because each has a hard dependency on a Now bet proving out first. WSJF (scored in the second appendix) drove the sequencing: pattern insights have high value but an inflated job size until the memory engine accumulates real history; the therapist handoff (the strategic half of the CEO's premium-tier request, item 5) waits for the escalation muscle that crisis mode builds; the pricing pilot (its other half) has enormous risk-reduction value but zero validity before KR2 shows the companion is worth paying for; and the onboarding redesign (item 1) would currently onboard users into the product we are leaving behind. Splitting item 5 rather than building it as bundled was the quarter's most politically expensive call, and the right one: both halves survive, sequenced where each can succeed.
 >
 > I cut **daily streaks (item 2)** entirely because they violate the strategy's one hard no: attachment revenue is rented from the trust moat, and we do not rent out the moat. I cut **content library expansion (item 12)** because it deepens the product users graduate out of; investment in yesterday's value prop has negative strategic return whatever its matrix score says. I cut **the social sharing layer (item 3)** because mental-health progress is not social currency and sharing pressure works against the privacy promise the memory engine depends on. And I cut **Fable for Teams (item 13)** for this cycle, the genuinely uncomfortable call given the revenue attached, because employer reporting incentives point directly at both our hard no and our privacy promise. It is the first candidate for reconsideration once KR2 proves the companion works; the other three cuts are permanent.
 
@@ -71,6 +71,18 @@ Scale: Impact 1-5 where 5 = strongly moves the north star and 1 = barely moves i
 | 13 | "Fable for Teams" B2B play | Business dev | 1 on north star | 5 | Avoid | ❌ Hard No #3: employer reporting incentives conflict with the hard no and privacy promise; revisit after KR2 proves out. |
 | 14 | Load time 4.2s to under 2s on 4G | Engineering | 4 | 2 | Do Now | 🪨 Rock #3 → KR1. Instant availability is trust made physical. |
 
-## Link to full artifact
+## Appendix: WSJF scoring for the Next queue
 
-Working lab worksheet (local course workspace, not in this repo): `2026-08-06/plc-m2-lab.md`. Slide 2 of the deliverables deck to follow in Module 6.
+WSJF = (Time Criticality + Feature Value + Risk Reduction) / Job Size, each component 1 to 5. Used here rather than Impact vs Effort because the Next queue is a sequencing problem, and sequencing turns on what it costs to wait.
+
+| Next item | Time criticality | Feature value | Risk reduction | Job size | WSJF |
+|---|---|---|---|---|---|
+| Pricing pilot | 4 | 3 | 5 | 2 | **6.00** |
+| Therapist handoff | 3 | 4 | 4 | 4 | **2.75** |
+| First-conversation onboarding | 2 | 3 | 1 | 4 | **1.50** |
+| Pattern insights | 2 | 3 | 2 | 5 | **1.40** |
+| Life-transition arcs | 1 | 3 | 1 | 4 | **1.25** |
+
+The pricing pilot scores highest and it is not close, on the component the other frameworks ignore. Risk reduction is a 5 because it is the only item that answers the open board question about what a conversation costs and what a user will pay, and job size is a 2 because a willingness-to-pay study needs a survey and a cohort, not the memory engine. That result is why the business case sets its price gate at 30 November 2026 rather than waiting for the retention read: the roadmap and the funding case agree that this number has to arrive before the next acquisition budget is committed.
+
+Where judgment overrides the score: pattern insights ranks fourth and still ships earlier in the Next block, because its job size is inflated only until the memory engine has accumulated real history, and it extends a Now bet rather than starting a new one. Life-transition arcs rank last and belong last. The one score I would defend hardest is the therapist handoff at 2.75, held behind crisis mode not because of its value but because widening an escalation path before the escalation muscle exists is how safety incidents happen.

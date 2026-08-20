@@ -1,45 +1,70 @@
-# My Strategy: Product Leadership Final Project
+# Fable: the companion bet
 
-> My final project for Product School's **Product Leadership** certification: the **Fable Growth** scenario (B2C · retention + engagement), taken from a board-ready product strategy to a complete business case across six in-class labs. Individual project, one folder per deliverable.
+> Product Leadership certification, final project. The **Fable Growth** scenario (B2C, retention and engagement), taken from diagnosis to a funded business case with kill criteria across six in-class labs.
+>
+> Antje Barth · Product Leadership · Aug 2026 cohort
 
 ---
 
-## Deliverables at a glance
+## The diagnosis
 
-| # | Deliverable | Module | Status | File |
-|---|---|---|---|---|
-| 1 | **Product Strategy One-Pager & OKRs** | M1 | ✅ | `01-strategy/strategy-and-okrs.md` |
-| 2 | **Outcome Roadmap & Trade-off Memo** | M2 | ✅ | `02-roadmap/outcome-roadmap.md` |
-| 3 | **Team Charter** (What We Own + How We Decide) | M3 | ✅ | `03-team-charter/team-charter.md` |
-| 4 | **Financial Model** (business case + kill criteria) | M5 | ✅ | `04-financial-model/financial-model.md` |
-| 5 | **Individual Insights** (reflection) | M6 | ☐ | `05-insights/individual-insights.md` |
-| ★ | **Final Project Presentation** (generated in M6, committed to your repo) | M6 | ☐ | `05-insights/final-presentation.md` |
+Fable peaked at 4.2M users by being genuinely good at one thing: helping adults through an acute anxiety episode. It works. Users resolve the thing they came for in 90 to 120 days, conclude they are done, and quietly stop opening the app.
 
-> Module 4 (*Drive Alignment & Executive Influence*) sharpens **how** you land these deliverables with executives rather than producing a separate submitted artifact.
+So Fable's real competitor is not Calm or Headspace or an AI-native rival. It is the user's own conclusion that they no longer need it. You cannot fix that with engagement mechanics, because the mechanics would be arguing with a user who is correct.
 
-## The strategy in one sentence
+## The bet
 
-Fable (B2C) escapes the growth wall by becoming a clinically grounded AI companion whose value compounds through longitudinal personal memory, winning the everyday "something feels off" moment for its existing users and graduates; the hard bet is refusing to optimize for attachment, so trust stays the moat.
+Fable becomes a clinically grounded AI companion whose value compounds through longitudinal personal memory. It wins the everyday "something feels off" moment for people it already has history with, so the second year of the relationship is worth more than the first.
 
-## How to submit
+**The hard no that gives it teeth:** we will not optimize the companion for attachment. No friendship or romance simulation, no time-in-app targets, no dependency mechanics. Attachment is the most profitable thing a companion can sell and it destroys the clinical trust that is the only durable moat. We measure "felt understood," never "couldn't leave."
 
-- In Module 6, generate your final deck (Google Slides or PDF) from the deliverable files and commit it to your repo. The quickest path: use the **Final Project Deliverables Template**, or paste your files into an AI tool like **Gamma** or **Canva** (see `05-insights/final-presentation.md`).
-- Submit **both** your **repo URL** and your **presentation** (a published link, or the file uploaded to the learning platform) within **7 days** of your cohort ending.
+That refusal costs real revenue, and it is what the rest of this repo is organised around defending.
+
+## The argument in one pass
+
+Each deliverable answers the question the previous one opens.
+
+| | Deliverable | The question it answers | Module |
+|---|---|---|---|
+| 1 | [Product Strategy & OKRs](01-strategy/strategy-and-okrs.md) | What are we becoming, and what will we refuse? | M1 |
+| 2 | [Outcome Roadmap & Trade-off Memo](02-roadmap/outcome-roadmap.md) | What ships first, and what did we cut to mean it? | M2 |
+| 3 | [Team Charter](03-team-charter/team-charter.md) | Who decides, and what happens when the hard no meets a retention target? | M3 |
+| 4 | [Financial Model](04-financial-model/financial-model.md) | Does the bet survive finance, and what number ends it? | M5 |
+| 5 | [Individual Insights](05-insights/individual-insights.md) | What did building this actually teach me? | M6 |
+
+Module 4 (Drive Alignment and Executive Influence) shaped how these land with executives rather than producing a separate artifact.
+
+**The through-line.** The strategy sets one hard no. The roadmap cuts daily streaks, the content library, social sharing and the B2B tier to honour it, then treats sub-2-second load time as a Rock because latency is the front door for a product whose promise is "the first thing you talk to." The charter turns the hard no into a standing veto anyone can exercise, and adds a bright-line test for the one seam where it will genuinely be hard to apply. The business case then prices the bet and finds that the real product is not the return, it is $3.59 of breakeven headroom on a business currently sitting within cents of its cost of capital.
+
+## Load-bearing assumptions
+
+Two numbers carry this case, and both are named on the page rather than buried in it, each with a kill criterion holding a date and a threshold against it. The churn tail supplies most of the incremental value and is gated at month 12. The transfer coefficient from "felt understood" to retention is derived from the OKR pair rather than observed, so the gate that matters reads the retention outcome directly instead of trusting the sentiment score that predicts it. The ask is to judge this bet on breakeven-ARPU headroom, which it moves by $3.17, rather than on a 3:1 ratio the mechanism cannot reach at any plausible retention. Detail in [the financial model](04-financial-model/financial-model.md).
 
 ## Repo structure
 
 ```
 product-leadership-final/
-├── README.md                              ← this dashboard
+├── README.md
 ├── 01-strategy/
-│   └── strategy-and-okrs.md               ← M1: Playing to Win + hard no + OKRs   ★ Deliverable 1
+│   └── strategy-and-okrs.md      Playing to Win, the hard no, OKR cascade
 ├── 02-roadmap/
-│   └── outcome-roadmap.md                 ← M2: outcome roadmap + trade-off memo   ★ Deliverable 2
+│   └── outcome-roadmap.md        Now/Next/Later, trade-off memo, backlog scoring
 ├── 03-team-charter/
-│   └── team-charter.md                    ← M3: What We Own + How We Decide         ★ Deliverable 3
+│   └── team-charter.md           What We Own, How We Decide
 ├── 04-financial-model/
-│   └── financial-model.md                 ← M5: business case + kill criteria       ★ Deliverable 4
+│   └── financial-model.md        Business case, seven kill criteria
 └── 05-insights/
-    ├── individual-insights.md             ← M6: friction, learnings, aha           ★ Deliverable 5
-    └── final-presentation.md              ← M6: how to build the deck (committed to repo)  ★ Final submission
+    ├── individual-insights.md    Friction, learnings, aha
+    └── final-presentation.md     The deck
 ```
+
+## Status
+
+| Deliverable | State |
+|---|---|
+| 1. Product Strategy & OKRs | Complete |
+| 2. Outcome Roadmap & Trade-off Memo | Complete |
+| 3. Team Charter | Complete |
+| 4. Financial Model | Complete |
+| 5. Individual Insights | In progress |
+| Final presentation | In progress |
