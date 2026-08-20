@@ -75,7 +75,7 @@ Antje Barth
 
 ### Not a growth bet. A repair of unit economics sitting within cents of cost of capital
 
-**Where Fable is today.** For every $1.00 we spend acquiring someone, we get $1.05 back, and it takes 25 months. That is breaking even, not earning. We need $9.57 a month per user just to break even, and we charge $9.99, so we clear the line by 42 cents at a 4% churn tail. If people leave a little faster than assumed, breakeven rises to $10.20 and we lose 21 cents on each one. Nobody has measured which world we are in.
+**Where Fable is today.** For every $1.00 we spend acquiring someone, we get $1.05 back, and it takes 25 months. That is breaking even, not earning. We need $9.57 a month per user just to break even, and we charge $9.99, so we clear the line by 42 cents. If people leave a little faster than assumed, breakeven rises to $10.20 and we lose 21 cents on each one. Nobody has measured which world we are in.
 
 **What the bet does.** A $1.0M build takes that to $1.82 back on every $1.00, paying back in 10 months, worth about $11.6M of discounted incremental contribution a year. It drops the break-even point to $6.40 a month.
 
@@ -83,7 +83,7 @@ Antje Barth
 
 **What I would tell the room before they find it.** 3:1 is not reachable through this mechanism at all, discounted it would need roughly 59% 26-week retention. Judge it on how much room we gain above break-even instead.
 
-**Seven kill criteria**, each with a metric, a threshold, a date and a consequence. The one that matters most reads the churn tail at month 12, because that assumption carries 74% of the value.
+**Seven kill criteria**, each with a metric, a threshold, a date and a consequence. The one that matters most checks, at month 12, how long people actually stay once they pass six months, which carries 74% of the value.
 
 > Say: the case got stronger when it stopped claiming to be a growth story.
 
