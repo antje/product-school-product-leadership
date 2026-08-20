@@ -39,7 +39,7 @@ Each deliverable answers the question the previous one opens.
 
 Module 4 (Drive Alignment and Executive Influence) shaped how these land with executives rather than producing a separate artifact.
 
-**The through-line.** The strategy sets one hard no. The roadmap cuts daily streaks, the content library, social sharing and the B2B tier to honour it, then treats sub-2-second load time as a Rock because latency is the front door for a product whose promise is "the first thing you talk to." The charter turns the hard no into a standing veto anyone can exercise, and adds a bright-line test for the one seam where it will genuinely be hard to apply. The business case then prices the bet and finds that the real product is not the return, it is $3.59 of breakeven headroom on a business currently sitting within cents of its cost of capital.
+**The through-line.** The strategy sets one hard no. The roadmap cuts daily streaks, the content library, social sharing and the B2B tier to honour that no. It then treats a sub-2-second load time as a Rock, because a slow open undermines a product whose promise is being "the first thing you talk to." The charter turns the hard no into a standing veto that anyone on the team can invoke. The financial model prices what the no costs and names the number that would end the bet.
 
 ## Load-bearing assumptions
 

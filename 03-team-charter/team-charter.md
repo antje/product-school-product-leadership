@@ -21,7 +21,15 @@
 
 **The crux rule:** surface owners own the frame, the check-in layer owns the content. PM 1 and PM 2 decide where and when a check-in fires in their surface; PM 3 decides what it says and how it uses memory.
 
-**What is out of scope.** Clinical therapy and crisis-care delivery (we detect and hand off); general-purpose AI assistance; attachment optimization (the hard no, out of scope for every sub-team including retention, which is won by compounding value not hooks); the frontier LLM and the clinical protocols themselves (integrated via partners); net-new acquisition and paid growth (Growth owns bringing new people to the door, we own activating and retaining people we already have history with); voice, web, watch, localization, and the supporter track (all later, not active work). We do not build meditation or sleep-content packs.
+**What is out of scope.** Six things belong to other teams or to nobody this quarter:
+- Clinical therapy and crisis care delivery. We detect and hand off; we do not treat.
+- General-purpose AI assistance. Fable answers questions about how you are doing, not how to write an email.
+- Anything built to create dependency. This is the hard no, and it applies to every sub-team including retention. Retention is won by being worth returning to, not by hooks.
+- The underlying language model and the clinical protocols. We integrate both through partners; we do not build them.
+- New-user acquisition and paid growth. Growth owns bringing people in. We own keeping the people we already have history with.
+- Voice, web, watch, other languages, and the supporter track. All Later, none active now.
+
+We also do not build meditation or sleep content. That value proposition is being retired.
 
 **Cross-boundary decisions that need a joint call.** (1) Any change to check-in content, timing, or frequency inside a surface: PM 3 and the surface owner. (2) The onboarding-to-retention handoff seam, including the dormant-graduate second-conversation flow: PM 1 and PM 2 jointly. (3) Growth asks that touch the companion experience or target our base: surface owner and Growth lead, product leader tiebreak. (4) Anything touching memory, privacy, or data use: memory-engine owner and safety, always. (5) Any change with a plausible safety implication: safety review before action.
 
@@ -44,7 +52,7 @@
 | Roadmap sequencing, OKR trade-offs | Product leader | Affected PMs |
 | Pricing pilot | Product leader | PM 2, Growth |
 
-**Two non-negotiable overrides.** (1) Safety halt: the weekly safety review, or the safety lead at any time, can halt the model or a feature; not consensus, not overridable by any PM, Growth, or a deadline; it routes to the product leader only to confirm and plan the fix, never to reverse under pressure. (2) The hard no: any proposal optimizing for attachment or dependency is rejected at the point it is raised, by whoever notices; only disagreement about whether something crosses the line escalates.
+**Two things nobody can override.** **Safety halt:** the weekly safety review, or the safety lead at any time, can stop the model or a feature. This is not a consensus decision. No PM, no Growth request and no launch date overrides it. It comes to the product leader only to confirm the halt and plan the fix, never to reverse it. **The hard no:** any proposal that optimizes for attachment or dependency gets rejected by whoever notices it, at the moment they notice. It does not need to escalate to be killed. The only thing that escalates is a real disagreement about whether something crosses the line.
 
 **How cross-team conflicts escalate** (time-boxed so a bet cannot quietly stall). (1) Direct, within 24 hours: the two owners try to resolve it; whoever raised it writes a two-line summary (the decision, the disagreement, the metric each is protecting). (2) Joint working session, within 48 hours: the two owners plus any affected-capability owner decide with the data in front of them, against the OKR most at risk and the how-to-win, not by seniority. (3) Product leader decides, within 72 hours of first raise, in writing so it sets precedent. Skip the clock and escalate immediately if safety, memory or privacy, or the hard no is involved. Tiebreak at 72 hours: the surface owner's call stands provisionally unless safety or the hard no is implicated, logged for the next OKR review. Movement beats a perfect answer everywhere except safety.
 
@@ -52,7 +60,7 @@
 
 ## Known risk this charter must close
 
-The seam most likely to cause repeat conflict is retention / check-in / hard-no. Retention's fastest-looking levers (more notifications, stickier nudges) sit exactly on the line the hard no forbids, and "compounding value" versus "engagement mechanic" will feel identical in a specific ticket. Proposed bright-line test (to ratify with the clinical advisor): a check-in is **earned return** if it is triggered by a signal specific to this user (a pattern in their own history, a self-reported state) and justified by a felt-understood improvement; it is **manufactured dependency** if it is triggered by time-since-last-open or a fixed global cadence, or justified primarily by a frequency or retention number. Retention may ask for the first, never the second.
+The seam most likely to cause repeat conflict is retention / check-in / hard-no. Retention's fastest-looking levers (more notifications, stickier nudges) sit exactly on the line the hard no forbids, and "compounding value" versus "engagement mechanic" will feel identical in a specific ticket. Proposed test, to ratify with the clinical advisor. A check-in counts as **earned return** when two things are true: it is triggered by something specific to that user, like a pattern in their own history or a state they reported, and it is justified by whether people felt understood. It counts as **manufactured dependency** when it is triggered by time since last open or a fixed schedule for everyone, or when the reason for it is a frequency or retention number. Retention can ask for the first kind. Never the second.
 
 ## Full charter (optional components, beyond the two required)
 
