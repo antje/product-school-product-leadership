@@ -33,7 +33,7 @@ Antje Barth
 
 **The hard no.** We will not optimize the companion for attachment. No friendship or romance simulation, no time-in-app targets, no dependency mechanics. Attachment is the most profitable thing a companion can sell and it destroys the clinical trust that is the only durable moat.
 
-**OKRs.** 26-week retention 12% to 30%. Felt-understood 4+ share 38% to 65%, clinically audited. Dormant graduates completing a second conversation 5% to 18%.
+**OKRs.** KR1, share of users still here at 26 weeks: 12% to 30%. KR2, share of conversations people rate 4 or better on "did this feel understood": 38% to 65%, clinically audited. KR3, users who got better and left, coming back for a second conversation: 5% to 18%.
 
 > Say: the growth wall is caused by the product working, so the strategy has to change what the product is, not how sticky it is.
 
@@ -43,13 +43,13 @@ Antje Barth
 
 ### Three Rocks, four cuts, and the cuts are where the strategy is
 
-**Now, committed.** Memory-grounded check-ins, the differentiator, driving KR2. Crisis mode, the license to operate and the dormant graduate's safe return, driving KR3. Sub-2-second load, driving KR1.
+**Now, committed.** The three Rocks, meaning the bets that have to land or the strategy does not. Memory-grounded check-ins, the thing competitors cannot copy (KR2). Crisis mode, which is both what makes it safe to run this at all and the safe way back for someone who left (KR3). Sub-2-second load (KR1).
 
-**Performance as a Rock, deliberately.** For a product whose promise is "the first thing you talk to when something feels off," a four second cold start is not polish. It is the promise breaking at the front door.
+**Performance as a Rock, deliberately.** For a product whose promise is "the first thing you talk to when something feels off," a four second cold start is not polish. It is the promise breaking in the first four seconds.
 
-**What we cut.** Daily streaks, because they are the hard no in feature form. Content library expansion, because it deepens the value prop users graduate out of. Social sharing, because mental-health progress is not social currency. Fable for Teams, the expensive one, because employer reporting incentives point at both the hard no and the privacy promise. That last one is marked revisit after KR2 rather than never.
+**What we cut.** Daily streaks, because they are the hard no in feature form. Content library expansion, because it invests further in the very thing users finish with. Social sharing, because mental-health progress is not social currency. Fable for Teams, the expensive one, because employer reporting incentives point at both the hard no and the privacy promise. That last one is marked revisit after KR2 rather than never.
 
-**Sequencing the Next queue.** WSJF puts the pricing pilot first at 6.00, on risk reduction. That is why the business case sets its price gate at 30 November rather than waiting for the retention read.
+**Sequencing what comes next.** WSJF, which ranks work by value and urgency divided by effort, puts the pricing pilot top of the queue at 6.00, mostly because it removes risk. That is why the business case sets its price gate at 30 November rather than waiting for the retention read.
 
 > Say: a roadmap that does not make clear what is not being built is not a roadmap.
 
@@ -59,9 +59,9 @@ Antje Barth
 
 ### A hard no only works if a ticket can be tested against it
 
-**Structure, chosen deliberately.** Platform plus Product. Memory, conversation design and safety are held centrally; three PMs own outcomes on top. We optimise for coherence, and accept slower velocity in the shared layer, because a companion that behaves like two products is not a companion.
+**Structure, chosen deliberately.** A shared platform with product teams on top. Memory, conversation design and safety are built once, centrally; three PMs own outcomes that use them. We optimise for coherence, and accept slower velocity in the shared layer, because a companion that behaves like two products is not a companion.
 
-**What we own.** The companion relationship end to end. The crux rule where the surfaces meet: surface owners own the frame, the check-in layer owns the content.
+**What we own.** The companion relationship end to end. The rule that settles the overlap: whoever owns the screen decides where and when a check-in appears, and whoever owns the check-in decides what it says.
 
 **How we decide.** Whoever owns the metric decides. Whoever owns the affected capability can veto it. Safety and the hard no stop anything outright and are not overridable. No cross-team conflict stays open more than three business days.
 
@@ -75,13 +75,13 @@ Antje Barth
 
 ### Not a growth bet. A repair of unit economics sitting within cents of cost of capital
 
-**Where Fable is today.** LTV to CAC of 1.05:1 discounted, 25-month payback. Breakeven ARPU is $9.57 against the $9.99 we charge, so we clear the line by 42 cents at a 4% churn tail. At a 5.2% tail breakeven is $10.20 and we miss by 21 cents. Nobody has measured which world we are in.
+**Where Fable is today.** For every $1.00 we spend acquiring someone, we get $1.05 back, and it takes 25 months. That is breaking even, not earning. We need $9.57 a month per user just to break even, and we charge $9.99, so we clear the line by 42 cents at a 4% churn tail. If people leave a little faster than assumed, breakeven rises to $10.20 and we lose 21 cents on each one. Nobody has measured which world we are in.
 
-**What the bet does.** A $1.0M build takes that to 1.82:1 and a 10-month discounted payback, worth about $11.6M of discounted incremental contribution a year. It lowers breakeven ARPU to $6.40.
+**What the bet does.** A $1.0M build takes that to $1.82 back on every $1.00, paying back in 10 months, worth about $11.6M of discounted incremental contribution a year. It drops the break-even point to $6.40 a month.
 
-**The real product is the $3.59 of headroom**, not the return. It makes the business robust to an assumption nobody has measured.
+**The real product is the $3.59 of room above break-even**, not the return. It makes the business robust to an assumption nobody has measured.
 
-**What I would tell the room before they find it.** 3:1 is not reachable through this mechanism at all, discounted it would need roughly 59% 26-week retention. Judge this on breakeven-ARPU headroom instead.
+**What I would tell the room before they find it.** 3:1 is not reachable through this mechanism at all, discounted it would need roughly 59% 26-week retention. Judge it on how much room we gain above break-even instead.
 
 **Seven kill criteria**, each with a metric, a threshold, a date and a consequence. The one that matters most reads the churn tail at month 12, because that assumption carries 74% of the value.
 
@@ -97,8 +97,8 @@ Antje Barth
 
 **Learning.** Good unit economics do not make a bet worth funding. The case I reviewed had better numbers than mine and the answer was still no, because the ceiling was $414K against a 4.2M-user business.
 
-**Learning.** The assumption I was nervous about was not the one carrying the case. A 30% miss on the transfer coefficient still approves. A 4% churn tail nobody has measured carries 74% of the value.
+**Learning.** The assumption I was nervous about was not the one carrying the case. Being 30% wrong about how strongly feeling understood drives retention still leaves the bet worth funding. But how long people stay once they pass six months, a number nobody has measured, carries 74% of the value.
 
-**The aha.** I thought the strategy was finished when the cascade cohered. But nothing in it could have been proven wrong. Writing kill criteria is what changed that. Judgment only travels if someone who is not me can act on it.
+**The aha.** I thought the strategy was finished when all the pieces lined up. But nothing in it could have been proven wrong. Writing kill criteria is what changed that. Judgment only travels if someone who is not me can act on it.
 
 > Say: close on this. The hard no was a value until I wrote the test. The strategy was an opinion until I wrote the number that would make me stop.
