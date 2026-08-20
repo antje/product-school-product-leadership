@@ -31,6 +31,7 @@ Each deliverable answers the question the previous one opens.
 | 3 | [Team Charter](03-team-charter/team-charter.md) | Who decides, and what happens when the hard no meets a retention target? | M3 |
 | 4 | [Financial Model](04-financial-model/financial-model.md) | Does the bet survive finance, and what number ends it? | M5 |
 | 5 | [Individual Insights](05-insights/individual-insights.md) | What did building this actually teach me? | M6 |
+| ★ | [Final presentation](05-insights/product-leadership-final-antje-barth.pdf) | The whole argument in six slides | M6 |
 
 Module 4 (Drive Alignment and Executive Influence) shaped how these land with executives rather than producing a separate artifact.
 
