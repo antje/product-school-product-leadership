@@ -3,3 +3,6 @@
 Thumbs.db
 .vscode/
 .idea/
+
+# Working source for the deck, kept local
+05-insights/final-presentation.md

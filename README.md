@@ -72,7 +72,6 @@ product-school-product-leadership/
 │   └── financial-model.md        Business case, seven kill criteria
 └── 05-insights/
     ├── individual-insights.md    Friction, learnings, aha
-    ├── final-presentation.md     Deck content, one section per slide
     └── product-leadership-final-antje-barth.pdf   The deck
 ```
 
